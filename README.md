@@ -1,6 +1,6 @@
 # WebForms-Exemplo1
 
-WebForms, SQLite 1.0.104, ADO.Net
+WebForms, SQLite 1.0.104, ADO.Net, Repository Pattern
 
 Instalando SQLite no projeto VS 2015 https://www.nuget.org/packages/System.Data.SQLite/
 
